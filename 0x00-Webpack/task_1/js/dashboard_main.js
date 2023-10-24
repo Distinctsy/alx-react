@@ -18,4 +18,3 @@ $(document).ready(function() {
   // Add another paragraph: Copyright - Holberton School
   $('body').append('<p>Copyright - Holberton School</p>');
 });
-
